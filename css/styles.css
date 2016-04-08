@@ -9472,8 +9472,12 @@ body {
 .iphone-carousel .slick-slide img {
   width: 70%;
 }
+/* line 630, ../stylesheets/styles.scss */
+.iphone-carousel .btn-custom {
+  margin-top: 200px;
+}
 
-/* line 631, ../stylesheets/styles.scss */
+/* line 634, ../stylesheets/styles.scss */
 .btn-custom {
   background: #009445;
   border: none;
@@ -9484,7 +9488,7 @@ body {
   margin-top: 10px;
   margin-bottom: 10px;
 }
-/* line 640, ../stylesheets/styles.scss */
+/* line 643, ../stylesheets/styles.scss */
 .btn-custom:hover {
   color: #fff;
 }
