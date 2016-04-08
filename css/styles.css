@@ -9445,7 +9445,7 @@ body {
 }
 /* line 600, ../stylesheets/styles.scss */
 .portfolio-box:hover .portfolio-box-caption {
-  opacity: 1;
+  opacity: 0;
 }
 @media (min-width: 768px) {
   /* line 607, ../stylesheets/styles.scss */
